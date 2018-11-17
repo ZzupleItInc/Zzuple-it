@@ -5,4 +5,5 @@ Pull requests are allowed, we need as much help as possible. if you join our dis
 # Current Staff based on Discord
 
 srb2thepast (Owner)
+
 Sophie oreozz/ Sophieoreozz (Artwork)
