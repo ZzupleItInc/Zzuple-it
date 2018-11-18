@@ -2,7 +2,7 @@ Normal Run (First time playing)
 
 
 
-The player starts playing the game, and haves a normal time for 1 - 7 levels, solving riddles to find them out. If they click on the wrong spot 9 times, they go back to the previous level. If its too hard to do that, they can turn on multiple chances. Once they get to the 7th (can change) level, the “person” giving those riddles give a FAKE riddle. They start to turn evil, as well as changing up the stage and trying to make the player fail. 
+The player starts playing the game, but they are a subject, or creation. They hear a voice, a voice that says “Welcome! You can start solving these riddles, and we’ll have fun!” the player starts to and haves a normal time for 1 - 7 levels, solving riddles to find them out. If they click on the wrong spot 9 times, they go back to the previous level. If its too hard to do that, they can turn on multiple chances. Once they get to the 7th (can change) level, the “person” giving those riddles give a FAKE riddle. They start to turn evil, as well as changing up the stage and trying to make the player fail. 
 
 Once the player gets to the 19th level, The narrator warns the player that there is a boss on the next level. On the 20th level, the boss’s name is Veinte [VE-in-t] (spanish for 20, clever, right?), and they attack rapidly and the player has 20 seconds maximum to solve their riddles. If the player fails one WITHOUT multiple chances mode, the player will start at the beginning of the boss. If the player fails WITH multiple chances, they go back one riddle. 
 
