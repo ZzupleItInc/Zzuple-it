@@ -1,14 +1,17 @@
 11,16,18
   
-Collision
 Main Camera
 PlayerPH
 SomeonePH
 Collision (1)
+  Collison
   DoorCollision
-  Collision (2)
-  Collision (4)
-  Collision (5)
-  Collision (6)
-  Collision (7)
+  Collisin (2)
+  Collison (4)
+  Collison (5)
+  Collison (6)
+  Collison (7)
+Camera_Pos_1
+Camera_Pos_2
+Key
 
