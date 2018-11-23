@@ -7,3 +7,7 @@ Pull requests are allowed, we need as much help as possible. if you join our dis
 srb2thepast (Owner)
 
 Sophie oreozz/ Sophieoreozz (Artwork)
+
+
+# # Code of Conduct
+https://github.com/srb2thepast/Find-It/blob/master/CODE_OF_CONDUCT.md
