@@ -1,0 +1,7 @@
+ZZUPLE IT VERSION 0.0.05 2018
+
+11/24/18
+
+CHANGES:
+
+Start of the game, when you hit a wall, the camera moves, although in order to hit that wall you have to go offscreen.
