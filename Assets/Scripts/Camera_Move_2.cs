@@ -26,7 +26,7 @@ public class Camera_Move_2 : MonoBehaviour {
 			print (counting);
 			if (counting == 200) {
 			
-				GetComponent<Camera_Follow> ().enabled = true;
+				GetComponent<CameraFollow> ().enabled = true;
 			
 			}
 
